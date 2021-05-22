@@ -1,1 +1,1 @@
-# django_first_app_models
+# django_myapp
